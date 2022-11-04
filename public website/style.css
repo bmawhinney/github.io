@@ -1,0 +1,6 @@
+p {
+    color: orangered;
+    text-shadow: 1px -10px 20px green, 1px 10px 20px purple;
+    font-size: 60px;
+    text-decoration: underline overline dotted;
+}
